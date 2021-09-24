@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm a software engineer at Microsoft. Check out my blog at [kvwu.io](kvwu.io).
+
+I'm interested in Rust, Python and Linux these days.
+
+Formerly:
+Requests -> Sandboxes @ AWS Lambda
+Clothes -> You @ Prime Wardrobe
 
 <!--
 **TransientError/TransientError** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
