@@ -4,7 +4,7 @@ I'm interested in Rust, Python and Linux these days.
 
 Formerly:  
 - Requests -> Sandboxes @ AWS Lambda  
-- Clothes -> You @ Prime Wardrobe
+- Clothes -> You @ Prime Wardrobe (now called Prime Try Before You Buy)
 
 <!--
 **TransientError/TransientError** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
